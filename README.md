@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td><img src="logo.png" width="1500" height="300"></td>
+    <td><img src="logo.png" width="1024" height="300"></td>
     <td> <b> <H3>Code to aglign the milions of sequences  </H3></b> </td>
   </tr>
 </table>
