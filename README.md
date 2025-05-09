@@ -1,17 +1,22 @@
 # A statistical analysis on COVID-19 data collection reliability
 
+**Gianluca Morelli**<sup>1</sup>, **Marco Riani**<sup>1</sup>*, **Federica Agosta**<sup>2</sup> and **Pietro Cozzini**<sup>2</sup>*
 
-![ ](authors.png)
+<sup>1</sup> Department of Economics and Management and Interdepartmental Research Centre for Robust Statistics, Via J.F. Kennedy 6, University of Parma, 43125 Parma 
+
+<sup>2</sup> Molecular Modeling Lab, Food and Drug Department, University of Parma, Parco Area delle Scienze 17/A, 43121 Parma
+
+
 
 <table>
   <tr>
-    <td><img src="logo.png" width="1024" height="300"></td>
-    <td> <b> <H3>Code to aglign the milions of sequences  </H3></b> </td>
+    <td><img src="logoCOVID.png" width="1024" height="300"></td>
+    <td> <b> <H3>Before and after the alignement  </H3></b> </td>
   </tr>
 </table>
 
 
-Note: in order to run the files below you need to have [FSDA toolbox](https://https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed
+
 
 **Abstract**
 
@@ -43,21 +48,16 @@ To view the .ipynb files click on the corresponding link.
 To run the .ipynb files inside the agnostic environment jupiter notebook follow the instructions in the file
 [ipynbRunInstructions.md](https://github.com/UniprJRC/MonitoringBook/blob/main/ipynbRunInstructions.md). 
 
-
+Note: in order to run the files below you need to have [FSDA toolbox](https://https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed and the BioInformatics toolbox. In order to visualize the maps the geomapping toolbox is also needed.
 
 | FileName | View :eyes:| Run ▶️ | Jupiter notebook |
 | -------- | ---- | --- | ---- |
-|`ExAlignmentToRefSeqs.mlx`: Example of multialignment to reference sequences   | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentToRefSeqs.mlx) | [ExAlignmentToRefSeqs.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentToRefSeqs.ipynb) |
-|`ExAlignmentHeader.mlx`: Example of Date and Country extraction   | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentHeader.mlx) | [ExAlignmentHeader.ipynb](https://github.com/UniprJRC/Covid19/blob/main/simulatedData.ipynb) |
-
-
-Remark: in order to run the files we assume that the free MATLAB Add On FSDA must be installed.
+|`ExAlignmentToRefSeqs.mlx`: Example of multialignment to reference sequences. An example of pre and post-alignment of a generic sequence to the reference sequences is also given.  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentToRefSeqs.mlx) | [ExAlignmentToRefSeqs.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentToRefSeqs.ipynb) |
+|`ExAlignmentHeader.mlx`: Example of Date and Country extraction   | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentHeader.mlx) | [ExAlignmentHeader.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentHeader.ipynb) |
+|`CovidDiffusion.mlx`: Creates Table 8 and the plots which show the diffusion of COVID inside the GISAID database for each country. An interactive geomap which enables the user to choose the year and to restrict the analysis to the European countries automatically appears.    | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=CovidDiffusion.mlx) | [CovidDiffusion.ipynb](https://github.com/UniprJRC/Covid19/blob/main/CovidDiffusion.ipynb) |
 
 ---
 
-We can also share, upon request,  the code which has been used in the simulation study. 
-
----
 
 ![GitHub top language](https://img.shields.io/github/languages/top/UniprJRC/boot-TCLUST)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UniprJRC/boot-TCLUST)
