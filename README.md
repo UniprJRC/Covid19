@@ -49,7 +49,7 @@ To run the .ipynb files inside the agnostic environment jupiter notebook follow 
 [ipynbRunInstructions.md](https://github.com/UniprJRC/MonitoringBook/blob/main/ipynbRunInstructions.md). 
 
 Note: in order to run the files below you need to have [FSDA toolbox](https://https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed and the BioInformatics toolbox. In order to visualize the maps the geomapping toolbox is also needed.
-
+<!--
 <style>
 table th:first-of-type {
     width: 25%;
@@ -64,7 +64,7 @@ table th:nth-of-type(4) {
     width: 25%;
 }
 </style>
-
+-->
 
 | FileName | View :eyes:  | Run ▶️  | Jupiter notebook |
 | -------- | ---- | --- | ---- |
