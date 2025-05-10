@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><img src="LogoCovid.png" width="1024" height="300"></td>
-    <td> <b> <H3>Before and after the alignement  </H3></b> </td>
+    <td> <b> <H3>Before and after the alignment  </H3></b> </td>
   </tr>
 </table>
 
