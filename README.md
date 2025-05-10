@@ -72,6 +72,8 @@ table th:nth-of-type(4) {
 |`ExAlignmentHeader.mlx`: Example of Date and Country extraction   | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentHeader.mlx) | [ExAlignmentHeader.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentHeader.ipynb) |
 |`CovidDiffusion.mlx`: Creates Table 8 and the plots which show the diffusion of COVID inside the GISAID database for each country. An interactive geomap which enables the user to choose the year and to restrict the analysis to the European countries automatically appears.    | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=CovidDiffusion.mlx&focus=true) | [CovidDiffusion.ipynb](https://github.com/UniprJRC/Covid19/blob/main/CovidDiffusion.ipynb) |
 
+
+
 ---
 
 
