@@ -50,7 +50,23 @@ To run the .ipynb files inside the agnostic environment jupiter notebook follow 
 
 Note: in order to run the files below you need to have [FSDA toolbox](https://https://www.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox) installed and the BioInformatics toolbox. In order to visualize the maps the geomapping toolbox is also needed.
 
-| FileName | View :eyes:| Run ▶️ | Jupiter notebook |
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
+</style>
+
+
+| FileName | View :eyes:  | Run ▶️  | Jupiter notebook |
 | -------- | ---- | --- | ---- |
 |`ExAlignmentToRefSeqs.mlx`: Example of multialignment to reference sequences. An example of pre and post-alignment of a generic sequence to the reference sequences is also given.  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentToRefSeqs.mlx) | [ExAlignmentToRefSeqs.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentToRefSeqs.ipynb) |
 |`ExAlignmentHeader.mlx`: Example of Date and Country extraction   | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]() |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/Covid19&file=ExAlignmentHeader.mlx) | [ExAlignmentHeader.ipynb](https://github.com/UniprJRC/Covid19/blob/main/ExAlignmentHeader.ipynb) |
