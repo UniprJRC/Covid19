@@ -79,7 +79,7 @@ table th:nth-of-type(4) {
 
 ![GitHub top language](https://img.shields.io/github/languages/top/UniprJRC/boot-TCLUST)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UniprJRC/boot-TCLUST)
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180239-censored-regression-using-extended-box-cox-transformations)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/181093-a-statistical-analysis-on-covid-19-data-collection)
 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/UniprJRC/boot-TCLUST)](https://github.com/UniprJRC/2025tobit/graphs/contributors)
